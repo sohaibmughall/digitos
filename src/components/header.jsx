@@ -4,7 +4,7 @@ class Header extends Component {
     render() {
         return (
             <div>
-                <header class="header01 centerMenu isSticky">
+                <header class="header01 isSticky">
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-lg-12">
