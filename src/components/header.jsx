@@ -39,16 +39,16 @@ class Header extends Component {
                                             <li class="menu-item-has-children">
                                                 <a href="javascript:void(0);">Services</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="service.html">Service Page</a></li>
-                                                    <li><a href="single-service.html">Service Details</a></li>
+                                                    <li><a href="/servicepage">Service Page</a></li>
+                                                    <li><a href="/servicedetail">Service Details</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
                                                 <a href="javascript:void(0);">Portfolio</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="folio1.html">Portfolio 01</a></li>
-                                                    <li><a href="folio2.html">Portfolio 02</a></li>
-                                                    <li><a href="single-folio.html">Portfolio Details</a></li>
+                                                    <li><a href="/portfolio01">Portfolio 01</a></li>
+                                                    <li><a href="/portfolio02">Portfolio 02</a></li>
+                                                    <li><a href="/portfoliodetail">Portfolio Details</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
@@ -57,28 +57,28 @@ class Header extends Component {
                                                     <li class="menu-item-has-children">
                                                         <a href="javascript:void(0);">Blog List Views</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="blog2.html">Left Sidebar</a></li>
-                                                            <li><a href="blog1.html">Right Sidebar</a></li>
-                                                            <li><a href="blog3.html">Without Sidebar</a></li>
+                                                            <li><a href="/listleft">Left Sidebar</a></li>
+                                                            <li><a href="/listright">Right Sidebar</a></li>
+                                                            <li><a href="/listwithout">Without Sidebar</a></li>
                                                         </ul>
                                                     </li>
                                                     <li class="menu-item-has-children">
                                                         <a href="javascript:void(0);">Blog Grid Views</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="blog5.html">Left Sidebar</a></li>
-                                                            <li><a href="blog4.html">Right Sidebar</a></li>
-                                                            <li><a href="blog6.html">Without Sidebar</a></li>
+                                                            <li><a href="/gridleft">Left Sidebar</a></li>
+                                                            <li><a href="/gridright">Right Sidebar</a></li>
+                                                            <li><a href="/gridwithout">Without Sidebar</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="single-blog.html">Blog Details</a></li>
+                                                    <li><a href="/blogsdetail">Blog Details</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item-has-children">
                                                 <a href="javascript:void(0);">pages</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="about.html">About 01</a></li>
-                                                    <li><a href="about2.html">About 02</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
+                                                    <li><a href="/about01">About 01</a></li>
+                                                    <li><a href="/about02">About 02</a></li>
+                                                    <li><a href="/contact">Contact</a></li>
                                                     <li class="menu-item-has-children">
                                                         <a href="javascript:void(0);">Shop Page</a>
                                                         <ul class="sub-menu">
@@ -95,8 +95,8 @@ class Header extends Component {
                                                             <li><a href="single-team.html">Team Details</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="gallery.html">Gallery</a></li>
-                                                    <li><a href="company.html">Company History</a></li>
+                                                    <li><a href="/gallery">Gallery</a></li>
+                                                    <li><a href="/companyhistory">Company History</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
