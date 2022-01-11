@@ -82,17 +82,17 @@ class Header extends Component {
                                                     <li class="menu-item-has-children">
                                                         <a href="javascript:void(0);">Shop Page</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="shop1.html">Shop 01</a></li>
-                                                            <li><a href="shop2.html">Shop 02</a></li>
-                                                            <li><a href="shop3.html">Shop 03</a></li>
-                                                            <li><a href="single-product.html">Shop Details</a></li>
+                                                            <li><a href="/shop1">Shop 01</a></li>
+                                                            <li><a href="/shop2">Shop 02</a></li>
+                                                            <li><a href="/shop3">Shop 03</a></li>
+                                                            <li><a href="single-product">Shop Details</a></li>
                                                         </ul>
                                                     </li>
                                                     <li class="menu-item-has-children">
                                                         <a href="javascript:void(0);">Team</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="team.html">Our Team</a></li>
-                                                            <li><a href="single-team.html">Team Details</a></li>
+                                                            <li><a href="/ourteam">Our Team</a></li>
+                                                            <li><a href="/teamdetail">Team Details</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="/gallery">Gallery</a></li>

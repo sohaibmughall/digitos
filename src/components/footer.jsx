@@ -29,11 +29,11 @@ class Footer extends Component {
                                 <div class="widget">
                                     <h3 class="widget_title">About Company</h3>
                                     <ul>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="team.html">Team Member</a></li>
-                                        <li><a href="folio1.html">Our Portfolio</a></li>
-                                        <li><a href="blog1.html">News</a></li>
-                                        <li><a href="company.html">Company History</a></li>
+                                        <li><a href="/about01">About</a></li>
+                                        <li><a href="/ourteam.html">Team Member</a></li>
+                                        <li><a href="/portfolio01">Our Portfolio</a></li>
+                                        <li><a href="/listright">News</a></li>
+                                        <li><a href="/companyhistory">Company History</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -41,11 +41,11 @@ class Footer extends Component {
                                 <div class="widget">
                                     <h3 class="widget_title">Our Services</h3>
                                     <ul>
-                                        <li><a href="single-service.html">Digital Solution</a></li>
-                                        <li><a href="single-service.html">Lifecycle marketing</a></li>
-                                        <li><a href="single-service.html">Sass development</a></li>
-                                        <li><a href="single-service.html">App development</a></li>
-                                        <li><a href="single-service.html">Digital agency</a></li>
+                                        <li><a href="/servicedetail">Digital Solution</a></li>
+                                        <li><a href="/servicedetail">Lifecycle marketing</a></li>
+                                        <li><a href="/servicedetail">Sass development</a></li>
+                                        <li><a href="/servicedetail">App development</a></li>
+                                        <li><a href="/servicedetail">Digital agency</a></li>
                                     </ul>
                                 </div>
                             </div>

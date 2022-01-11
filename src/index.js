@@ -29,6 +29,12 @@ import About02 from './pages/ALL PAGES/About02';
 import Contact from './pages/ALL PAGES/Contact';
 import Gallery from './pages/ALL PAGES/Gallery';
 import CompanyHistory from './pages/ALL PAGES/CompanyHistory';
+import Shop1 from './pages/ALL PAGES/Shops/Shop1';
+import Shop2 from './pages/ALL PAGES/Shops/Shop2';
+import Shop3 from './pages/ALL PAGES/Shops/Shop3';
+import OurTeam from './pages/ALL PAGES/Teams/OurTeam';
+import TeamDetail from './pages/ALL PAGES/Teams/TeamDetail';
+
 
 
 render(
@@ -72,6 +78,13 @@ render(
                 <Route path="/contact" element={<Contact />} />
                 <Route path="/gallery" element={<Gallery />} />
                 <Route path="/companyhistory" element={<CompanyHistory />} />
+                <Route path="/shop1" element={< Shop1/>} />
+                <Route path="/shop2" element={< Shop2/>} />
+                <Route path="/shop3" element={< Shop3/>} />
+                <Route path="/ourteam" element={<OurTeam/>} />
+                <Route path="/teamdetail" element={<TeamDetail/>} />
+
+
 
 
 

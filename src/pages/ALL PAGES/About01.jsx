@@ -185,7 +185,7 @@ export default class About01 extends Component {
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6 col-lg-12">
-                        <div class="subTitle"><a href="#" class="__cf_email__" data-cfemail="3a5955574a5b54437a5d575b535614595557">digitos@gmail.com</a></div>
+                        <div class="subTitle">digitos@gmail.com</div>
                         <h2 class="secTitle">We Develop & Create Digital Future</h2>
                         <p class="secDesc">
                             There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form
@@ -204,7 +204,7 @@ export default class About01 extends Component {
                         </div>
                     </div>
                     <div class="col-xl-5 offset-xl-1 col-lg-12">
-                        <div class="processConten02 clearfix" style="background-image: url(assets/images/home2/4.png);">
+                        <div class="processConten02 clearfix" style={{backgroundimage: "url(assets/images/home2/4.png);"}}>
                             <div class="proCircle"><div class="proRound"></div></div>
                             <div class="funfact fact_01" data-count="100">
                                 <h2><span class="counter">100</span>k<i>+</i></h2>
