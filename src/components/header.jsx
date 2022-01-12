@@ -104,7 +104,7 @@ class Header extends Component {
                                     <div class="accessNav">
                                         <a class="phoneBtn" href="tel:+01682648101"><i class="digitos-telephone-call"></i>+ 01682648101</a>
                                         <a class="cartBtn" href="javascript:void(0);"><i class="digitos-shopping-bag"></i><span>0</span></a>
-                                        <a class="dgBtn_two" href="contact.html"><span><i class="digitos-enter"></i>Get Quote</span></a>
+                                        <a class="dgBtn_two" href="/contact"><span><i class="digitos-enter"></i>Get Quote</span></a>
                                     </div>
                                 </div>
                             </div>

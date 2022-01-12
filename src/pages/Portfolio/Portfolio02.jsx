@@ -26,13 +26,13 @@ export default class Portfolio02 extends Component {
                         <div class="folioItem02">
                             <img src="assets/images/folio/4.jpg" alt=""/>
                             <div class="folioCon">
-                                <h3><a href="single-folio.html">Championing Autism Awareness Week</a></h3>
+                                <h3><a href="/portfoliodetail">Championing Autism Awareness Week</a></h3>
                                 <p class="cate"><a href="folio1.html">Creative Design</a></p>
                                 <p>
                                     We’re consultants, guides, and partners for brands on digital transformation
                                 </p>
                                 <div class="flmore">
-                                    <a href="single-folio.html">Explore Learning <i class="digitos-arrow"></i></a>
+                                    <a href="/portfoliodetail">Explore Learning <i class="digitos-arrow"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -41,13 +41,13 @@ export default class Portfolio02 extends Component {
                         <div class="folioItem02">
                             <img src="assets/images/folio/5.jpg" alt=""/>
                             <div class="folioCon">
-                                <h3><a href="single-folio.html">Mastering the art of virtual collaboration</a></h3>
+                                <h3><a href="/portfoliodetail">Mastering the art of virtual collaboration</a></h3>
                                 <p class="cate"><a href="folio1.html">Marketing</a></p>
                                 <p>
                                     We’re consultants, guides, and partners for brands on digital transformation
                                 </p>
                                 <div class="flmore">
-                                    <a href="single-folio.html">Explore Learning <i class="digitos-arrow"></i></a>
+                                    <a href="/portfoliodetail">Explore Learning <i class="digitos-arrow"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -56,13 +56,13 @@ export default class Portfolio02 extends Component {
                         <div class="folioItem02">
                             <img src="assets/images/folio/6.jpg" alt=""/>
                             <div class="folioCon">
-                                <h3><a href="single-folio.html">Jamuna Company Creative Design</a></h3>
+                                <h3><a href="/portfoliodetail">Jamuna Company Creative Design</a></h3>
                                 <p class="cate"><a href="folio1.html">Development</a></p>
                                 <p>
                                     We’re consultants, guides, and partners for brands on digital transformation
                                 </p>
                                 <div class="flmore">
-                                    <a href="single-folio.html">Explore Learning <i class="digitos-arrow"></i></a>
+                                    <a href="/portfoliodetail">Explore Learning <i class="digitos-arrow"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -71,13 +71,13 @@ export default class Portfolio02 extends Component {
                         <div class="folioItem02">
                             <img src="assets/images/folio/7.jpg" alt=""/>
                             <div class="folioCon">
-                                <h3><a href="single-folio.html">Digital City Transform of Lithuania’s Capital</a></h3>
+                                <h3><a href="/portfoliodetail">Digital City Transform of Lithuania’s Capital</a></h3>
                                 <p class="cate"><a href="folio1.html">Digital Solutions</a></p>
                                 <p>
                                     We’re consultants, guides, and partners for brands on digital transformation
                                 </p>
                                 <div class="flmore">
-                                    <a href="single-folio.html">Explore Learning <i class="digitos-arrow"></i></a>
+                                    <a href="/portfoliodetail">Explore Learning <i class="digitos-arrow"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -86,13 +86,13 @@ export default class Portfolio02 extends Component {
                         <div class="folioItem02">
                             <img src="assets/images/folio/8.jpg" alt=""/>
                             <div class="folioCon">
-                                <h3><a href="single-folio.html">Digital skills gap disaster calls for radical teaching</a></h3>
+                                <h3><a href="/portfoliodetail">Digital skills gap disaster calls for radical teaching</a></h3>
                                 <p class="cate"><a href="folio1.html">Business</a></p>
                                 <p>
                                     We’re consultants, guides, and partners for brands on digital transformation
                                 </p>
                                 <div class="flmore">
-                                    <a href="single-folio.html">Explore Learning <i class="digitos-arrow"></i></a>
+                                    <a href="/portfoliodetail">Explore Learning <i class="digitos-arrow"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -101,13 +101,13 @@ export default class Portfolio02 extends Component {
                         <div class="folioItem02">
                             <img src="assets/images/folio/9.jpg" alt=""/>
                             <div class="folioCon">
-                                <h3><a href="single-folio.html">Geoff Lentin: A day in the life</a></h3>
+                                <h3><a href="/portfoliodetail">Geoff Lentin: A day in the life</a></h3>
                                 <p class="cate"><a href="folio1.html">Mobile App</a></p>
                                 <p>
                                     We’re consultants, guides, and partners for brands on digital transformation
                                 </p>
                                 <div class="flmore">
-                                    <a href="single-folio.html">Explore Learning <i class="digitos-arrow"></i></a>
+                                    <a href="/portfoliodetail">Explore Learning <i class="digitos-arrow"></i></a>
                                 </div>
                             </div>
                         </div>

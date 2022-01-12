@@ -25,60 +25,60 @@ export default class GWithoutSidebar extends Component {
                 <div class="col-lg-4 col-md-6">
                     <div class="blogItem02">
                         <img src="assets/images/blog/1.jpg" alt="" />
-                        <a href="blog1.html">Digital Marketing</a>
+                        <a href="/blogsdetail">Digital Marketing</a>
                         <div class="blogContent">
-                            <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                            <h3><a href="single-blog.html">How to Write the Perfect Creative Brief</a></h3>
+                            <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                            <h3><a href="/blogsdetail">How to Write the Perfect Creative Brief</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="blogItem02">
                         <img src="assets/images/blog/2_1.jpg" alt="" />
-                        <a href="blog1.html">Business</a>
+                        <a href="/blogsdetail">Business</a>
                         <div class="blogContent">
-                            <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                            <h3><a href="single-blog.html">Where to Get Web Design Inspiration</a></h3>
+                            <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                            <h3><a href="/blogsdetail">Where to Get Web Design Inspiration</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="blogItem02">
                         <img src="assets/images/blog/3.jpg" alt="" />
-                        <a href="blog1.html">Development</a>
+                        <a href="/blogsdetail">Development</a>
                         <div class="blogContent">
-                            <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                            <h3><a href="single-blog.html">Creating Efficiencies for Clients in Their CMS</a></h3>
+                            <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                            <h3><a href="/blogsdetail">Creating Efficiencies for Clients in Their CMS</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="blogItem02">
                         <img src="assets/images/blog/4.jpg" alt="" />
-                        <a href="blog1.html">Science</a>
+                        <a href="/blogsdetail">Science</a>
                         <div class="blogContent">
-                            <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                            <h3><a href="single-blog.html">6 Web Design Fails Still Happening in 2018</a></h3>
+                            <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                            <h3><a href="/blogsdetail">6 Web Design Fails Still Happening in 2018</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="blogItem02">
                         <img src="assets/images/blog/5.jpg" alt="" />
-                        <a href="blog1.html">Digital Marketing</a>
+                        <a href="/blogsdetail">Digital Marketing</a>
                         <div class="blogContent">
-                            <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                            <h3><a href="single-blog.html">Branding Assets Every Company Should Have</a></h3>
+                            <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                            <h3><a href="/blogsdetail">Branding Assets Every Company Should Have</a></h3>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="blogItem02">
                         <img src="assets/images/blog/6.jpg" alt="" />
-                        <a href="blog1.html">Business</a>
+                        <a href="/blogsdetail">Business</a>
                         <div class="blogContent">
-                            <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                            <h3><a href="single-blog.html">How Content Marketing Drives Sales</a></h3>
+                            <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                            <h3><a href="/blogsdetail">How Content Marketing Drives Sales</a></h3>
                         </div>
                     </div>
                 </div>

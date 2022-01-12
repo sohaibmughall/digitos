@@ -68,9 +68,9 @@ export default class BlogsDetail extends Component {
                             <div class="row">
                                 <div class="col-md-8">
                                     <div class="tags clearfix">
-                                        <a href="blog1.html">digital</a>
-                                        <a href="blog1.html">business plan</a>
-                                        <a href="blog1.html">seo</a>
+                                        <a href="/blogsdetail">digital</a>
+                                        <a href="/blogsdetail">business plan</a>
+                                        <a href="/blogsdetail">seo</a>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
@@ -182,11 +182,11 @@ export default class BlogsDetail extends Component {
                             <div class="widget widget_categories">
                                 <h3 class="widget_title">Categories</h3>
                                 <ul>
-                                    <li><a href="blog1.html">Design</a>(10)</li>
-                                    <li><a href="blog1.html">Digital Marketing</a>(01)</li>
-                                    <li><a href="blog1.html">Development</a>(11)</li>
-                                    <li><a href="blog1.html">Science</a>(02)</li>
-                                    <li><a href="blog1.html">Other</a>(02)</li>
+                                    <li><a href="/blogsdetail">Design</a>(10)</li>
+                                    <li><a href="/blogsdetail">Digital Marketing</a>(01)</li>
+                                    <li><a href="/blogsdetail">Development</a>(11)</li>
+                                    <li><a href="/blogsdetail">Science</a>(02)</li>
+                                    <li><a href="/blogsdetail">Other</a>(02)</li>
                                 </ul>
                             </div>
                             <aside class="widget">
@@ -210,11 +210,11 @@ export default class BlogsDetail extends Component {
                             <div class="widget">
                                 <h3 class="widget_title">Kayword</h3>
                                 <div class="tagcloud">
-                                    <a href="blog1.html">marketing</a>
-                                    <a href="blog1.html">consulting</a>
-                                    <a href="blog1.html">social</a>
-                                    <a href="blog1.html">digital</a>
-                                    <a href="blog1.html">business plan</a>
+                                    <a href="/blogsdetail">marketing</a>
+                                    <a href="/blogsdetail">consulting</a>
+                                    <a href="/blogsdetail">social</a>
+                                    <a href="/blogsdetail">digital</a>
+                                    <a href="/blogsdetail">business plan</a>
                                 </div>
                             </div>
                         </div>
