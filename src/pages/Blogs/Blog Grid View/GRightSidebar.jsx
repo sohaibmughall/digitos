@@ -27,60 +27,60 @@ export default class GRightSidebar extends Component {
                         <div class="col-md-6">
                             <div class="blogItem02">
                                 <img src="assets/images/blog/1.jpg" alt="" />
-                                <a href="blog1.html">Digital Marketing</a>
+                                <a href="/blogsdetail">Digital Marketing</a>
                                 <div class="blogContent">
-                                    <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                                    <h3><a href="single-blog.html">How to Write the Perfect Creative Brief</a></h3>
+                                    <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                                    <h3><a href="/blogsdetail">How to Write the Perfect Creative Brief</a></h3>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="blogItem02">
                                 <img src="assets/images/blog/2_1.jpg" alt="" />
-                                <a href="blog1.html">Business</a>
+                                <a href="/blogsdetail">Business</a>
                                 <div class="blogContent">
-                                    <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                                    <h3><a href="single-blog.html">Where to Get Web Design Inspiration</a></h3>
+                                    <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                                    <h3><a href="/blogsdetail">Where to Get Web Design Inspiration</a></h3>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="blogItem02">
                                 <img src="assets/images/blog/3.jpg" alt="" />
-                                <a href="blog1.html">Development</a>
+                                <a href="/blogsdetail">Development</a>
                                 <div class="blogContent">
-                                    <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                                    <h3><a href="single-blog.html">Creating Efficiencies for Clients in Their CMS</a></h3>
+                                    <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                                    <h3><a href="/blogsdetail">Creating Efficiencies for Clients in Their CMS</a></h3>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="blogItem02">
                                 <img src="assets/images/blog/4.jpg" alt="" />
-                                <a href="blog1.html">Science</a>
+                                <a href="/blogsdetail">Science</a>
                                 <div class="blogContent">
-                                    <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                                    <h3><a href="single-blog.html">6 Web Design Fails Still Happening in 2018</a></h3>
+                                    <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                                    <h3><a href="/blogsdetail">6 Web Design Fails Still Happening in 2018</a></h3>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="blogItem02">
                                 <img src="assets/images/blog/5.jpg" alt="" />
-                                <a href="blog1.html">Digital Marketing</a>
+                                <a href="/blogsdetail">Digital Marketing</a>
                                 <div class="blogContent">
-                                    <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                                    <h3><a href="single-blog.html">Branding Assets Every Company Should Have</a></h3>
+                                    <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                                    <h3><a href="/blogsdetail">Branding Assets Every Company Should Have</a></h3>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="blogItem02">
                                 <img src="assets/images/blog/6.jpg" alt="" />
-                                <a href="blog1.html">Business</a>
+                                <a href="/blogsdetail">Business</a>
                                 <div class="blogContent">
-                                    <div class="bpmeta"><a href="blog1.html">July 1, 2021</a><a href="blog1.html">02 Comment</a></div>
-                                    <h3><a href="single-blog.html">How Content Marketing Drives Sales</a></h3>
+                                    <div class="bpmeta"><a href="/blogsdetail">July 1, 2021</a><a href="/blogsdetail">02 Comment</a></div>
+                                    <h3><a href="/blogsdetail">How Content Marketing Drives Sales</a></h3>
                                 </div>
                             </div>
                         </div>
@@ -109,11 +109,11 @@ export default class GRightSidebar extends Component {
                         <div class="widget widget_categories">
                             <h3 class="widget_title">Categories</h3>
                             <ul>
-                                <li><a href="blog1.html">Design</a>(10)</li>
-                                <li><a href="blog1.html">Digital Marketing</a>(01)</li>
-                                <li><a href="blog1.html">Development</a>(11)</li>
-                                <li><a href="blog1.html">Science</a>(02)</li>
-                                <li><a href="blog1.html">Other</a>(02)</li>
+                                <li><a href="/blogsdetail">Design</a>(10)</li>
+                                <li><a href="/blogsdetail">Digital Marketing</a>(01)</li>
+                                <li><a href="/blogsdetail">Development</a>(11)</li>
+                                <li><a href="/blogsdetail">Science</a>(02)</li>
+                                <li><a href="/blogsdetail">Other</a>(02)</li>
                             </ul>
                         </div>
                         <aside class="widget">
@@ -121,27 +121,27 @@ export default class GRightSidebar extends Component {
                             <div class="pp_post_item">
                                 <img src="assets/images/blog/t1.jpg" alt=""/>
                                 <span>25 July, 2021</span>
-                                <a href="single-blog.html">How to Build a Strategy with Data</a>
+                                <a href="/blogsdetail">How to Build a Strategy with Data</a>
                             </div>
                             <div class="pp_post_item">
                                 <img src="assets/images/blog/t2.jpg" alt=""/>
                                 <span>25 July, 2021</span>
-                                <a href="single-blog.html">What is Conversion Rate Optimization?</a>
+                                <a href="/blogsdetail">What is Conversion Rate Optimization?</a>
                             </div>
                             <div class="pp_post_item">
                                 <img src="assets/images/blog/t3.jpg" alt=""/>
                                 <span>25 July, 2021</span>
-                                <a href="single-blog.html">Optimizing Paid Search and PPC | Terms</a>
+                                <a href="/blogsdetail">Optimizing Paid Search and PPC | Terms</a>
                             </div>
                         </aside>
                         <div class="widget">
                             <h3 class="widget_title">Kayword</h3>
                             <div class="tagcloud">
-                                <a href="blog1.html">marketing</a>
-                                <a href="blog1.html">consulting</a>
-                                <a href="blog1.html">social</a>
-                                <a href="blog1.html">digital</a>
-                                <a href="blog1.html">business plan</a>
+                                <a href="/blogsdetail">marketing</a>
+                                <a href="/blogsdetail">consulting</a>
+                                <a href="/blogsdetail">social</a>
+                                <a href="/blogsdetail">digital</a>
+                                <a href="/blogsdetail">business plan</a>
                             </div>
                         </div>
                     </div>
