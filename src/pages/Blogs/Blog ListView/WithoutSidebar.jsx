@@ -23,66 +23,66 @@ export default class WithoutSidebar extends Component {
                         <div class="blogItem03">
                             <img src="assets/images/blog/7.jpg" alt=""/>
                             <div class="blogContent02">
-                                <div class="bpmeta"><a href="blog1.html">25 July, 2021</a><a href="blog1.html">0 Comment</a></div>
-                                <h3><a href="single-blog.html">How to Create a Digital Marketing Plan for the second half of the year</a></h3>
+                                <div class="bpmeta"><a href="/blogsdetail">25 July, 2021</a><a href="/blogsdetail">0 Comment</a></div>
+                                <h3><a href="/blogsdetail">How to Create a Digital Marketing Plan for the second half of the year</a></h3>
                                 <p>
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna ad aliqua.
                                 </p>
-                                <a class="rm_more" href="single-blog.html">Read More <i class="digitos-arrow"></i></a>
+                                <a class="rm_more" href="/blogsdetail">Read More <i class="digitos-arrow"></i></a>
                             </div>
                         </div>
                         <div class="blogItem03">
                             <img src="assets/images/blog/8.jpg" alt=""/>
                             <div class="blogContent02">
-                                <div class="bpmeta"><a href="blog1.html">25 July, 2021</a><a href="blog1.html">0 Comment</a></div>
-                                <h3><a href="single-blog.html">Are Pinterest Stories Right for Your Marketing Strategy?</a></h3>
+                                <div class="bpmeta"><a href="/blogsdetail">25 July, 2021</a><a href="/blogsdetail">0 Comment</a></div>
+                                <h3><a href="/blogsdetail">Are Pinterest Stories Right for Your Marketing Strategy?</a></h3>
                                 <p>
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna ad aliqua.
                                 </p>
-                                <a class="rm_more" href="single-blog.html">Read More <i class="digitos-arrow"></i></a>
+                                <a class="rm_more" href="/blogsdetail">Read More <i class="digitos-arrow"></i></a>
                             </div>
                         </div>
                         <div class="blogItem03">
                             <img src="assets/images/blog/9.jpg" alt=""/>
                             <div class="blogContent02">
-                                <div class="bpmeta"><a href="blog1.html">25 July, 2021</a><a href="blog1.html">0 Comment</a></div>
-                                <h3><a href="single-blog.html">How to Optimize Your SEO Marketing Strategy Search Engine Optimization </a></h3>
+                                <div class="bpmeta"><a href="/blogsdetail">25 July, 2021</a><a href="/blogsdetail">0 Comment</a></div>
+                                <h3><a href="/blogsdetail">How to Optimize Your SEO Marketing Strategy Search Engine Optimization </a></h3>
                                 <p>
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna ad aliqua.
                                 </p>
-                                <a class="rm_more" href="single-blog.html">Read More <i class="digitos-arrow"></i></a>
+                                <a class="rm_more" href="/blogsdetail">Read More <i class="digitos-arrow"></i></a>
                             </div>
                         </div>
                         <div class="blogItem03">
                             <img src="assets/images/blog/10.jpg" alt=""/>
                             <div class="blogContent02">
-                                <div class="bpmeta"><a href="blog1.html">25 July, 2021</a><a href="blog1.html">0 Comment</a></div>
-                                <h3><a href="single-blog.html">Optimizing Paid Search and PPC | Terms to Know</a></h3>
+                                <div class="bpmeta"><a href="/blogsdetail">25 July, 2021</a><a href="/blogsdetail">0 Comment</a></div>
+                                <h3><a href="/blogsdetail">Optimizing Paid Search and PPC | Terms to Know</a></h3>
                                 <p>
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna ad aliqua.
                                 </p>
-                                <a class="rm_more" href="single-blog.html">Read More <i class="digitos-arrow"></i></a>
+                                <a class="rm_more" href="/blogsdetail">Read More <i class="digitos-arrow"></i></a>
                             </div>
                         </div>
                         <div class="blogItem03 noThumb">
                             <div class="blogContent02">
-                                <div class="bpmeta"><a href="blog1.html">25 July, 2021</a><a href="blog1.html">0 Comment</a></div>
-                                <h3><a href="single-blog.html">Supercharge Your Link Building with a Digital PR Newsroom</a></h3>
+                                <div class="bpmeta"><a href="/blogsdetail">25 July, 2021</a><a href="/blogsdetail">0 Comment</a></div>
+                                <h3><a href="/blogsdetail">Supercharge Your Link Building with a Digital PR Newsroom</a></h3>
                                 <p>
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna ad aliqua.
                                 </p>
-                                <a class="rm_more" href="single-blog.html">Read More <i class="digitos-arrow"></i></a>
+                                <a class="rm_more" href="/blogsdetail">Read More <i class="digitos-arrow"></i></a>
                             </div>
                         </div>
                         <div class="blogItem03">
                             <img src="assets/images/blog/11.jpg" alt=""/>
                             <div class="blogContent02">
-                                <div class="bpmeta"><a href="blog1.html">25 July, 2021</a><a href="blog1.html">0 Comment</a></div>
-                                <h3><a href="single-blog.html">13 Takeaways from the State of Link Building Report 2021</a></h3>
+                                <div class="bpmeta"><a href="/blogsdetail">25 July, 2021</a><a href="/blogsdetail">0 Comment</a></div>
+                                <h3><a href="/blogsdetail">13 Takeaways from the State of Link Building Report 2021</a></h3>
                                 <p>
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna ad aliqua.
                                 </p>
-                                <a class="rm_more" href="single-blog.html">Read More <i class="digitos-arrow"></i></a>
+                                <a class="rm_more" href="/blogsdetail">Read More <i class="digitos-arrow"></i></a>
                             </div>
                         </div>
                         <div class="row">

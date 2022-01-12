@@ -35,7 +35,7 @@ export default class Portfolio01 extends Component {
                             <img src="assets/images/folio/f1.jpg" alt=""/>
                             <div class="folioHover">
                                 <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
+                                <h3><a href="/portfoliodetail">Digital marketing work</a></h3>
                             </div>
                         </div>
                     </div>
@@ -44,7 +44,7 @@ export default class Portfolio01 extends Component {
                             <img src="assets/images/folio/f2.jpg" alt=""/>
                             <div class="folioHover">
                                 <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
+                                <h3><a href="/portfoliodetail">Digital marketing work</a></h3>
                             </div>
                         </div>
                     </div>
@@ -53,7 +53,7 @@ export default class Portfolio01 extends Component {
                             <img src="assets/images/folio/f3.jpg" alt=""/>
                             <div class="folioHover">
                                 <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
+                                <h3><a href="/portfoliodetail">Digital marketing work</a></h3>
                             </div>
                         </div>
                     </div>
@@ -62,7 +62,7 @@ export default class Portfolio01 extends Component {
                             <img src="assets/images/folio/f4.jpg" alt=""/>
                             <div class="folioHover">
                                 <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
+                                <h3><a href="/portfoliodetail">Digital marketing work</a></h3>
                             </div>
                         </div>
                     </div>
@@ -71,7 +71,7 @@ export default class Portfolio01 extends Component {
                             <img src="assets/images/folio/f5.jpg" alt=""/>
                             <div class="folioHover">
                                 <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
+                                <h3><a href="/portfoliodetail">Digital marketing work</a></h3>
                             </div>
                         </div>
                     </div>
@@ -80,7 +80,7 @@ export default class Portfolio01 extends Component {
                             <img src="assets/images/folio/f6.jpg" alt=""/>
                             <div class="folioHover">
                                 <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
+                                <h3><a href="/portfoliodetail">Digital marketing work</a></h3>
                             </div>
                         </div>
                     </div>
@@ -89,7 +89,7 @@ export default class Portfolio01 extends Component {
                             <img src="assets/images/folio/f7.jpg" alt=""/>
                             <div class="folioHover">
                                 <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
+                                <h3><a href="/portfoliodetail">Digital marketing work</a></h3>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@ export default class Portfolio01 extends Component {
                             <img src="assets/images/folio/f8.jpg" alt=""/>
                             <div class="folioHover">
                                 <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
+                                <h3><a href="/portfoliodetail">Digital marketing work</a></h3>
                             </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@ export default class Portfolio01 extends Component {
                             <img src="assets/images/folio/f9.jpg" alt=""/>
                             <div class="folioHover">
                                 <p><a href="folio1.html">Creative Design</a></p>
-                                <h3><a href="single-folio.html">Digital marketing work</a></h3>
+                                <h3><a href="/portfoliodetail">Digital marketing work</a></h3>
                             </div>
                         </div>
                     </div>

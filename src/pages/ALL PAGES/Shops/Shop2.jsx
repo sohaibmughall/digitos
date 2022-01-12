@@ -99,13 +99,13 @@ export default class Shop2 extends Component {
                                     <img src="assets/images/shop/1.jpg" alt="Singular"/>
                                     <div class="pt_labels"><span class="pt_sale">Sale</span></div>
                                     <div class="lp_thumb_hover">
-                                        <a href="single-product.html" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
-                                        <a href="single-product.html"><i class="twi-eye-slash2"></i></a>
+                                        <a href="/single-product" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
+                                        <a href="/single-product"><i class="twi-eye-slash2"></i></a>
                                     </div>
                                 </div>
                                 <div class="lp_details">
                                     <p class="lp_cate"><a href="shop1.html">Music</a></p>
-                                    <h4><a href="single-product.html">Singular</a></h4>
+                                    <h4><a href="/single-product">Singular</a></h4>
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"></div>
                                     <div class="loop_price">
                                         <span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>3.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>2.00</bdi></span></ins></span>
@@ -119,13 +119,13 @@ export default class Shop2 extends Component {
                                     <img src="assets/images/shop/10.jpg" alt="Sunglasses"/>
                                     <div class="pt_labels"><span class="pt_featured">Featured</span></div>
                                     <div class="lp_thumb_hover">
-                                        <a href="single-product.html" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
-                                        <a href="single-product.html"><i class="twi-eye-slash2"></i></a>
+                                        <a href="/single-product" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
+                                        <a href="/single-product"><i class="twi-eye-slash2"></i></a>
                                     </div>
                                 </div>
                                 <div class="lp_details">
                                     <p class="lp_cate"><a href="shop1.html">Accessories</a></p>
-                                    <h4><a href="single-product.html">Sunglasses</a></h4>
+                                    <h4><a href="/single-product">Sunglasses</a></h4>
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"></div>
                                     <div class="loop_price">
                                         <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>90.00</bdi></span></span>
@@ -138,13 +138,13 @@ export default class Shop2 extends Component {
                                 <div class="lp_thumb">
                                     <img src="assets/images/shop/2.jpg" alt="Beanie"/>
                                     <div class="lp_thumb_hover">
-                                        <a href="single-product.html" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
-                                        <a href="single-product.html"><i class="twi-eye-slash2"></i></a>
+                                        <a href="/single-product" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
+                                        <a href="/single-product"><i class="twi-eye-slash2"></i></a>
                                     </div>
                                 </div>
                                 <div class="lp_details">
                                     <p class="lp_cate"><a href="shop1.html">Clothing</a></p>
-                                    <h4><a href="single-product.html">Beanie</a></h4>
+                                    <h4><a href="/single-product">Beanie</a></h4>
                                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"></div>
                                     <div class="loop_price">
                                         <span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>20.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>18.00</bdi></span></ins></span>
@@ -159,13 +159,13 @@ export default class Shop2 extends Component {
                                     <div class="pt_labels">
                                         <span class="pt_sale">Sale</span><div class="clearfix"></div></div>
                                         <div class="lp_thumb_hover">
-                                            <a href="single-product.html" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
-                                            <a href="single-product.html"><i class="twi-eye-slash2"></i></a>
+                                            <a href="/single-product" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
+                                            <a href="/single-product"><i class="twi-eye-slash2"></i></a>
                                         </div>
                                     </div>
                                     <div class="lp_details">
                                         <p class="lp_cate"><a href="shop1.html">Accessories</a></p>
-                                        <h4><a href="single-product.html">Belt</a></h4>
+                                        <h4><a href="/single-product">Belt</a></h4>
                                         <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"></div>
                                         <div class="loop_price">
                                             <span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>65.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>55.00</bdi></span></ins></span>
@@ -180,13 +180,13 @@ export default class Shop2 extends Component {
                                         <div class="pt_labels">
                                             <span class="pt_sale">Sale</span><div class="clearfix"></div></div>
                                             <div class="lp_thumb_hover">
-                                                <a href="single-product.html" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
-                                                <a href="single-product.html"><i class="twi-eye-slash2"></i></a>
+                                                <a href="/single-product" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
+                                                <a href="/single-product"><i class="twi-eye-slash2"></i></a>
                                             </div>
                                         </div>
                                         <div class="lp_details">
                                             <p class="lp_cate"><a href="shop1.html">Music</a></p>
-                                            <h4><a href="single-product.html">Cap</a></h4>
+                                            <h4><a href="/single-product">Cap</a></h4>
                                             <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"></div>
                                             <div class="loop_price">
                                                 <span class="price"/><ins/><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>28.00</bdi></span>
@@ -199,13 +199,13 @@ export default class Shop2 extends Component {
                                         <div class="lp_thumb">
                                             <img src="assets/images/shop/5.jpg" alt="Hoodie"/>
                                             <div class="lp_thumb_hover">
-                                                <a href="single-product.html" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
-                                                <a href="single-product.html"><i class="twi-eye-slash2"></i></a>
+                                                <a href="/single-product" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
+                                                <a href="/single-product"><i class="twi-eye-slash2"></i></a>
                                             </div>
                                         </div>
                                         <div class="lp_details">
                                             <p class="lp_cate"><a href="shop1.html">Hoodie</a></p>
-                                            <h4><a href="single-product.html">Hoodie</a></h4>
+                                            <h4><a href="/single-product">Hoodie</a></h4>
                                             <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"></div>
                                             <div class="loop_price">
                                                 <span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>3.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>2.00</bdi></span></ins></span>
@@ -219,13 +219,13 @@ export default class Shop2 extends Component {
                                             <img src="assets/images/shop/6.jpg" alt="Singular"/>
                                             <div class="pt_labels"><span class="pt_featured">Featured</span></div>
                                             <div class="lp_thumb_hover">
-                                                <a href="single-product.html" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
-                                                <a href="single-product.html"><i class="twi-eye-slash2"></i></a>
+                                                <a href="/single-product" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
+                                                <a href="/single-product"><i class="twi-eye-slash2"></i></a>
                                             </div>
                                         </div>
                                         <div class="lp_details">
                                             <p class="lp_cate"><a href="shop1.html">Hoodie</a></p>
-                                            <h4><a href="single-product.html">Hoodie with Logo</a></h4>
+                                            <h4><a href="/single-product">Hoodie with Logo</a></h4>
                                             <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"></div>
                                             <div class="loop_price">
                                                 <span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>63.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>52.00</bdi></span></ins></span>
@@ -239,13 +239,13 @@ export default class Shop2 extends Component {
                                             <img src="assets/images/shop/7.jpg" alt="Hoodie with Zipper"/>
                                             <div class="pt_labels"><span class="pt_sale">Sale</span></div>
                                             <div class="lp_thumb_hover">
-                                                <a href="single-product.html" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
-                                                <a href="single-product.html"><i class="twi-eye-slash2"></i></a>
+                                                <a href="/single-product" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
+                                                <a href="/single-product"><i class="twi-eye-slash2"></i></a>
                                             </div>
                                         </div>
                                         <div class="lp_details">
                                             <p class="lp_cate"><a href="shop1.html">Decor</a></p>
-                                            <h4><a href="single-product.html">Hoodie with Zipper</a></h4>
+                                            <h4><a href="/single-product">Hoodie with Zipper</a></h4>
                                             <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"></div>
                                             <div class="loop_price">
                                                 <span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>3.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>2.00</bdi></span></ins></span>
@@ -258,13 +258,13 @@ export default class Shop2 extends Component {
                                         <div class="lp_thumb">
                                             <img src="assets/images/shop/8.jpg" alt="Long Sleeve Tee"/>
                                             <div class="lp_thumb_hover">
-                                                <a href="single-product.html" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
-                                                <a href="single-product.html"><i class="twi-eye-slash2"></i></a>
+                                                <a href="/single-product" class="button add_to_cart_button"><i class="twi-shopping-cart2"></i></a>
+                                                <a href="/single-product"><i class="twi-eye-slash2"></i></a>
                                             </div>
                                         </div>
                                         <div class="lp_details">
                                             <p class="lp_cate"><a href="shop1.html">T-shirt</a></p>
-                                            <h4><a href="single-product.html">Long Sleeve Tee</a></h4>
+                                            <h4><a href="/single-product">Long Sleeve Tee</a></h4>
                                             <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"></div>
                                             <div class="loop_price">
                                                 <span class="price"/><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">£</span>25.00</bdi></span>

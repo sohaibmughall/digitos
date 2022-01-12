@@ -34,6 +34,7 @@ import Shop2 from './pages/ALL PAGES/Shops/Shop2';
 import Shop3 from './pages/ALL PAGES/Shops/Shop3';
 import OurTeam from './pages/ALL PAGES/Teams/OurTeam';
 import TeamDetail from './pages/ALL PAGES/Teams/TeamDetail';
+import ShopDetail from './pages/ALL PAGES/Shops/ShopDetail';
 
 
 
@@ -49,18 +50,6 @@ render(
                 <Route path="/homefour" element={<Homefour />} />
                 <Route path="/homefive" element={<Homefive />} />
                 <Route path="/homesix" element={<Homesix />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
-                <Route path="/" element={<Landing />} />
                 <Route path="/servicepage" element={<ServicePage/>} />
                 <Route path="/servicedetail" element={<ServiceDetail />} />
                 <Route path="/portfolio01" element={<Portfolio01 />} />
@@ -83,11 +72,7 @@ render(
                 <Route path="/shop3" element={< Shop3/>} />
                 <Route path="/ourteam" element={<OurTeam/>} />
                 <Route path="/teamdetail" element={<TeamDetail/>} />
-
-
-
-
-
+                <Route path="/single-product" element={<ShopDetail/>} />
             </Routes>
         </BrowserRouter>
         <Footer />
